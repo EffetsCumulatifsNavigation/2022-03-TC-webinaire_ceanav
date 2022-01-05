@@ -37,3 +37,8 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+
+maps/
+index_en.Rmd
+.DS_Store
