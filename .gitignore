@@ -42,3 +42,4 @@ vignettes/*.pdf
 maps/
 index_en.Rmd
 .DS_Store
+assets/

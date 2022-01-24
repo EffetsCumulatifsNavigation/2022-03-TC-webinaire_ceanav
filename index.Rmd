@@ -35,6 +35,7 @@ class: title-slide, middle
 # Effets cumulatifs des activités maritimes sur le Saint-Laurent et la rivière Saguenay - Projet pilote
 
 <center><img src="figures/studyarea.png" width="65%"></img></center>
+<!-- <center><img src="https://david-beauchesne.github.io/Rapport/figures/figures-output/cumulative_effects_simple.png" width="65%"></img></center> -->
 
 
 <center><i>David Beauchesne, Cindy Grant & Philippe Archambault</i></center>
@@ -94,12 +95,349 @@ class: inverse, center, middle
 
 class: inverse, center, middle
 
-# Évaluation des effets cumulatifs
+# Effets cumulatifs - activités maritimes
 
 <html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
+#### Contexte
+### Portée
+### Méthode 
+### Portrait 
+### Diagnostic
+### Perspectives
+
 ---
 
+# Contexte 
+
+---
+
+class: inverse, center, middle
+
+# Effets cumulatifs - activités maritimes
+
+<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
+
+### Contexte
+#### Portée
+### Méthode
+### Portrait 
+### Diagnostic
+### Perspectives
+
+---
+
+# Portée 
+
+## Objectifs 
+
+Voici les objectifs 
+
+---
+
+# Portée 
+
+.pull-left2[
+## Zone d'étude 
+
+### Délimitation de la zone d'étude &nbsp;&nbsp; <a href="maps/sa.html" target="_blank">`r mp()`</a>
+
+#### Étendue
+
+- Ouest: Châteaugay
+- Est : Pointe-des-Monts et Cap-Chat
+- Saguenay : Saint-Fulgence
+
+#### Grille d'étude
+
+- Cellules $1km^2$
+]
+
+.pull-right2[
+![](https://david-beauchesne.github.io/Rapport/figures/aoi.png)
+]
+
+
+---
+
+# Portée
+
+## Stresseurs environnementaux & composantes valorisées
+
+<br/>
+
+<center><img src="figures/portee.png" width="100%"></img></center>
+
+---
+
+# Portée de l'évaluation
+
+## Stratégie, limites et opportunités
+
+### Données et connaissances
+
+- Travail d'intégration de données et connaissances existantes qui ne remplace pas les programmes et projets existants
+
+--
+- Priorité aux données ouvertes
+
+
+--
+### Limites temporelles
+
+- Variable, majoritairement entre ~ 2000 et 2019
+
+--
+- L'évaluation ne sera pas garante du passé ou du futur
+
+
+--
+### Limites de l'interprétation
+
+- Évaluation sectorielle qui ne considère pas tous les stresseurs environnementaux existants
+
+--
+- Interprétation limitée aux données et connaissances disponibles et accessibles
+
+
+---
+
+class: inverse, center, middle
+
+# Effets cumulatifs - activités maritimes
+
+<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
+
+### Contexte
+### Portée
+#### Méthode
+### Portrait 
+### Diagnostic
+### Perspectives
+
+---
+
+# Méthode
+
+<center><img src="figures/1_2-species.png" width="100%"></img></center>
+
+.references[
+Halpern et al. 2008; Halpern et al. 2015
+]
+
+
+---
+
+# Méthode
+
+<center><img src="figures/8_2-halpern.png" width="100%"></img></center>
+
+
+.references[
+Halpern et al. 2008; Halpern et al. 2015
+]
+
+---
+
+# Méthode
+
+<br/><br/>
+
+<center><img src="figures/concept1.png" width="80%"></img></center>
+
+.references[
+Halpern et al. 2008; Halpern et al. 2015
+]
+
+---
+
+# Méthode
+
+<center><img src="figures/1_2-species.png" width="100%"></img></center>
+
+.references[
+Halpern et al. 2008; Halpern et al. 2015
+]
+
+---
+
+# Méthode
+
+<center><img src="figures/concept10.png" width="60%"></img></center>
+
+.references[
+Halpern et al. 2008; Halpern et al. 2015
+]
+
+---
+
+class: inverse, center, middle
+
+# Effets cumulatifs - activités maritimes
+
+<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
+
+### Contexte
+### Portée
+### Méthode
+#### Portrait 
+### Diagnostic
+### Perspectives
+
+---
+
+# Portrait 
+
+## Collecte de données 
+
+---
+
+# Portrait 
+
+## Stresseurs environnementaux
+
+---
+
+# Portrait 
+
+## Composantes valorisées 
+
+---
+
+# Portrait 
+
+## Vulnérabilité
+
+---
+
+class: inverse, center, middle
+
+# Effets cumulatifs - activités maritimes
+
+<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
+
+### Contexte
+### Portée
+### Méthode
+### Portrait 
+#### Diagnostic
+### Perspectives
+
+---
+
+# Diagnostic
+
+## Stresseurs cumulés
+
+.pull-left2[
+
+]
+.pull-right2[
+![](https://david-beauchesne.github.io/Rapport/figures/figures-output/cumulative_st_norm.png)
+]
+
+---
+
+# Diagnostic
+
+## Composantes valorisées cumulées
+
+.pull-left2[
+
+]
+.pull-right2[
+![](https://david-beauchesne.github.io/Rapport/figures/figures-output/cumulative_cv_norm.png)
+]
+
+---
+
+# Diagnostic
+
+## Effets cumulatifs
+
+.pull-left2[
+
+]
+.pull-right2[
+![](https://david-beauchesne.github.io/Rapport/figures/figures-output/cumulative_effects.png)
+]
+
+---
+
+# Diagnostic
+
+## Contribution régionale
+
+.pull-left2[
+
+]
+.pull-right2[
+![](https://david-beauchesne.github.io/Rapport/figures/figures-output/cumulative_effects_regional_contribution.png)
+]
+
+---
+
+# Diagnostic
+
+## Régions administratives
+
+.pull-left2[
+
+]
+.pull-right2[
+![](https://david-beauchesne.github.io/Rapport/figures/figures-output/cumulative_effects_region_cea.png)
+]
+
+---
+
+# Diagnostic 
+
+## Constats généraux
+
+---
+
+# Diagnostic 
+
+## Limites 
+
+---
+
+class: inverse, center, middle
+
+# Effets cumulatifs - activités maritimes
+
+<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
+
+### Contexte
+### Portée
+### Méthode
+### Portrait 
+### Diagnostic
+#### Perspectives
+
+---
+
+# Perspectives 
+
+- List of perspectives 
+
+---
+
+# Remerciements 
+
+Thank organizations, contributors, collaborators
+
+---
+
+
+
+
+
+
+
+
+
+---
 
 # Évaluation des effets cumulatifs
 
@@ -289,34 +627,6 @@ class: inverse, center, middle
 
 # Portée de l'évaluation
 
-## Stratégie, limites et opportunités
-
-### Données et connaissances
-
-- Travail d'intégration de données et connaissances existantes qui ne remplace pas les programmes et projets existants
-
---
-- Priorité aux données ouvertes
-
-
---
-### Limites temporelles
-
-- Variable, majoritairement entre ~ 2000 et 2019
-
---
-- L'évaluation ne sera pas garante du passé ou du futur
-
-
---
-### Limites de l'interprétation
-
-- Évaluation sectorielle qui ne considère pas tous les stresseurs environnementaux existants
-
---
-- Interprétation limitée aux données et connaissances disponibles et accessibles
-
-
 
 
 
@@ -331,72 +641,6 @@ class: inverse, center, middle
 
 ## Court rappel
 
----
-
-# Méthode d'analyse
-
-<center><img src="figures/1_2-species.png" width="100%"></img></center>
-
-.references[
-Halpern et al. 2008; Halpern et al. 2015
-]
-
-
----
-
-# Méthode d'analyse
-
-
-<center><img src="figures/8_2-halpern.png" width="100%"></img></center>
-
-
-.references[
-Halpern et al. 2008; Halpern et al. 2015
-]
-
----
-
-# Méthode d'analyse
-
-<br/><br/>
-
-<center><img src="figures/concept1.png" width="80%"></img></center>
-
-.references[
-Halpern et al. 2008; Halpern et al. 2015
-]
-
----
-
-# Méthode d'analyse
-
-<center><img src="figures/1_2-species.png" width="100%"></img></center>
-
-.references[
-Halpern et al. 2008; Halpern et al. 2015
-]
-
----
-
-# Méthode d'analyse
-
-<center><img src="figures/concept10.png" width="60%"></img></center>
-
-.references[
-Halpern et al. 2008; Halpern et al. 2015
-]
-
----
-
-
-# Méthode d'analyse
-
-
-<center><img src="figures/cumul.png" width="100%"></img></center>
-
-.references[
-Beauchesne et al., en préparation
-]
 
 
 ---
@@ -413,19 +657,7 @@ class: inverse, center, middle
 
 ---
 
-# Zone d'étude
 
-## Délimitation de la zone d'étude &nbsp;&nbsp; <a href="maps/sa.html" target="_blank">`r mp()`</a>
-
-### Étendue
-
-- Ouest: Châteaugay
-- Est : Pointe-des-Monts et Cap-Chat
-- Saguenay : Saint-Fulgence
-
-### Grille d'étude
-
-- Cellules $1km^2$
 
 ---
 

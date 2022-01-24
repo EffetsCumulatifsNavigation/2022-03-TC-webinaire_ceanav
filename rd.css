@@ -83,7 +83,7 @@ pre code {
     font-weight: 100;
   }
 
-  .remark-slide-content > h2, .pull-left > h2, .pull-right > h2 {
+  .remark-slide-content > h2, .pull-left > h2, .pull-right > h2, .pull-left2 > h2, .pull-right2 > h2 {
     font-size: 25px;
     color: #11446e;
     font-weight: bold;
@@ -92,7 +92,7 @@ pre code {
     margin-bottom: -20px;
   }
 
-  .remark-slide-content > h3, .pull-left > h3, .pull-right > h3 {
+  .remark-slide-content > h3, .pull-left > h3, .pull-right > h3, .pull-left2 > h3, .pull-right2 > h3 {
     font-size: 22px;
   }
 
@@ -115,7 +115,7 @@ pre code {
   }
 
   .inverse h1 {
-    font-size: 40pt;
+    font-size: 35pt;
     font-weight: 1000;
     margin-left: 0px;
     margin-right: 0px;
@@ -132,6 +132,26 @@ pre code {
     margin-right: 0px;
     margin-top: 40px;
     font-weight: 400;
+  }
+  
+  .inverse h3 {
+    font-size: 20pt;
+    color: #FAFAFA;
+    text-align: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 20px;
+    font-weight: 400;
+  }
+  
+  .inverse h4 {
+    font-size: 20pt;
+    color: #ffdd55;
+    text-align: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 20px;
+    font-weight: 1000;
   }
 
   /* turns off slide numbers for title page: https://github.com/gnab/remark/issues/298 */
@@ -459,15 +479,6 @@ pre code {
     content: "";
     display: table;
     clear: both;
-  }
-
-  .pull-left2 > h2, .pull-right2 > h2 {
-    font-size: 25px;
-    color: #11446e;
-    font-weight: bold;
-    font-style: italic;
-    margin-top: 0px;
-    margin-bottom: -20px;
   }
 
   .br2 {
