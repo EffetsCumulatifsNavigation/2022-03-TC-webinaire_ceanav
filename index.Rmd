@@ -34,9 +34,7 @@ class: title-slide, middle
 
 # Effets cumulatifs des activités maritimes sur le Saint-Laurent et la rivière Saguenay - Projet pilote
 
-<center><img src="figures/studyarea.png" width="65%"></img></center>
-<!-- <center><img src="https://david-beauchesne.github.io/Rapport/figures/figures-output/cumulative_effects_simple.png" width="65%"></img></center> -->
-
+<center><img src="figures/cumulative_effects_simple.png" width="65%"></img></center>
 
 <center><i>David Beauchesne, Cindy Grant & Philippe Archambault</i></center>
 
@@ -45,14 +43,14 @@ class: title-slide, middle
 <center>
 <a href="https://www.ulaval.ca/"><img src="figures/ul.png" width="100px"></img></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/img/labo_benthos.png" width="50px"></img>
+<img src="figures/labo_benthos.png" width="50px"></img>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="figures/Transport-Canada.png" width="10%"></img> -->
 </center>
 
-### Présentation du rapport final
-
 <span class="br2"></span>
+
+#### Présentation du rapport final
 
 #### 2022-03-23
 
@@ -79,11 +77,11 @@ class: inverse, center, middle
 <div class="divTableBody">
 <div class="divTableRow">
 <div class="divTableCell">
-<img src="assets/img/david2.png" style="width: 250px">
+<img src="figures/david2.png" style="width: 250px">
 </div><div class="divTableCell">
-<img src="assets/img/cindy.jpeg" style="width: 250px">
+<img src="figures/cindy.jpeg" style="width: 250px">
 </div><div class="divTableCell">
-<img src="assets/img/phil.png" style="width: 250px">
+<img src="figures/phil.png" style="width: 250px">
 </div></div>
 <div class="divTableRow">
 <div class="divTableCell"><b>David Beauchesne</b></div><div class="divTableCell"><b>Cindy Grant</b></div><div class="divTableCell"><b>Philippe Archambault</b></div></div>
@@ -100,8 +98,8 @@ class: inverse, center, middle
 <html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
 #### Contexte
-### Portée
-### Méthode 
+### Portée de l'évaluation
+### Méthode d'analyse 
 ### Portrait 
 ### Diagnostic
 ### Perspectives
@@ -109,6 +107,43 @@ class: inverse, center, middle
 ---
 
 # Contexte 
+
+.pull-left[
+## Initiative nationale 
+
+.font90[
+- Cadre national d'évaluation des effets cumulatifs
+- Évaluations régionales (6)
+]
+
+## Fleuve Saint-Laurent (QC)
+
+.font90[
+- Gouvernement du Canada 
+- Gouvernement du Québec 
+- Premières Nations 
+  - Nation Huronne-Wendat
+  - Nation des Innus d’Essipit
+  - Nation Mohawk de Kahnawà:ke
+  - Nation Wolastoqiyik Wahsipekuk
+  - Nation W8banaki 
+- Intervenants locaux
+- Organisations non-gouvernementales
+]
+]
+
+.pull-right[
+<center><img src="figures/stlTC.png" width="100%"></img></center>
+
+<a href='https://www.donneesquebec.ca/'><img src='figures/QUEBEC_couleur.svg' align="center" height="35" /></a>
+<a href='https://ogsl.ca/fr/accueil/'><img src='figures/pasl_logo.png' align="center" style="padding-left: 20px; padding-right: 10px;" height="45" /></a> 
+<a href='https://open.canada.ca/fr'><img src='figures/Gouvernement_du_Canada_logo.svg.png' align="center" height="25" /></a>
+
+
+<!-- <a href='https://open.canada.ca/fr'><img src='figures/Gouvernement_du_Canada_logo.svg.png' align="right" style="padding-right: 30px;" height="25" /></a>
+<a href='https://ogsl.ca/fr/accueil/'><img src='figures/OGSL_Logo-no-frame-2.png' align="right" style="padding-left: 25px; padding-right: 25px;" height="35" /></a> 
+<a href='https://www.donneesquebec.ca/'><img src='figures/QUEBEC_couleur.svg' align="right" height="35" /></a> -->
+]
 
 ---
 
@@ -119,28 +154,43 @@ class: inverse, center, middle
 <html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
 ### Contexte
-#### Portée
-### Méthode
+#### Portée de l'évaluation
+### Méthode d'analyse
 ### Portrait 
 ### Diagnostic
 ### Perspectives
 
 ---
 
-# Portée 
+# Portée de l'évaluation
 
-## Objectifs 
+## Objectifs général
 
-Voici les objectifs 
+*Développer une méthodologie d'analyse effectuer une évaluation des effets cumulatifs des activités maritimes dans le Saint-Laurent (tronçon fluvial et estuaire) et la rivière Saguenay (partie en eau profonde) au Québec*
+
+<br>
+
+--
+## Objectifs spécifiques 
+
+- Caractériser l'intensité et la distribution spatiale de stresseurs environnementaux issus d'activités maritimes;
+
+--
+- Caractériser la structure spatiale des composantes valorisées identifiées;
+
+--
+- Évaluer la vulnérabilité des composantes valorisées aux stresseurs environnementaux;
+
+--
+- Évaluer les effets cumulatifs des stresseurs environnementaux sur les composantes valorisées
+
 
 ---
 
-# Portée 
+# Portée de l'évaluation
 
 .pull-left2[
-## Zone d'étude 
-
-### Délimitation de la zone d'étude &nbsp;&nbsp; <a href="maps/sa.html" target="_blank">`r mp()`</a>
+## Zone d'étude &nbsp;&nbsp; <a href="maps/sa.html" target="_blank">`r mp()`</a>
 
 #### Étendue
 
@@ -160,7 +210,7 @@ Voici les objectifs
 
 ---
 
-# Portée
+# Portée de l'évaluation
 
 ## Stresseurs environnementaux & composantes valorisées
 
@@ -168,36 +218,9 @@ Voici les objectifs
 
 <center><img src="figures/portee.png" width="100%"></img></center>
 
----
-
-# Portée de l'évaluation
-
-## Stratégie, limites et opportunités
-
-### Données et connaissances
-
-- Travail d'intégration de données et connaissances existantes qui ne remplace pas les programmes et projets existants
 
 --
-- Priorité aux données ouvertes
-
-
---
-### Limites temporelles
-
-- Variable, majoritairement entre ~ 2000 et 2019
-
---
-- L'évaluation ne sera pas garante du passé ou du futur
-
-
---
-### Limites de l'interprétation
-
-- Évaluation sectorielle qui ne considère pas tous les stresseurs environnementaux existants
-
---
-- Interprétation limitée aux données et connaissances disponibles et accessibles
+`r tr()` .font80[Bien que le terme ***stresseur*** suggère des effets négatifs, un stresseur peut n'avoir aucun effet, ou même exercer un effet positif, sur une composante valorisée]
 
 
 ---
@@ -209,15 +232,15 @@ class: inverse, center, middle
 <html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
 ### Contexte
-### Portée
-#### Méthode
+### Portée de l'évaluation
+#### Méthode d'analyse
 ### Portrait 
 ### Diagnostic
 ### Perspectives
 
 ---
 
-# Méthode
+# Méthode d'analyse
 
 <center><img src="figures/1_2-species.png" width="100%"></img></center>
 
@@ -228,7 +251,7 @@ Halpern et al. 2008; Halpern et al. 2015
 
 ---
 
-# Méthode
+# Méthode d'analyse
 
 <center><img src="figures/8_2-halpern.png" width="100%"></img></center>
 
@@ -239,7 +262,7 @@ Halpern et al. 2008; Halpern et al. 2015
 
 ---
 
-# Méthode
+# Méthode d'analyse
 
 <br/><br/>
 
@@ -251,7 +274,7 @@ Halpern et al. 2008; Halpern et al. 2015
 
 ---
 
-# Méthode
+# Méthode d'analyse
 
 <center><img src="figures/1_2-species.png" width="100%"></img></center>
 
@@ -261,7 +284,7 @@ Halpern et al. 2008; Halpern et al. 2015
 
 ---
 
-# Méthode
+# Méthode d'analyse
 
 <center><img src="figures/concept10.png" width="60%"></img></center>
 
@@ -278,17 +301,39 @@ class: inverse, center, middle
 <html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
 ### Contexte
-### Portée
-### Méthode
+### Portée de l'évaluation
+### Méthode d'analyse
 #### Portrait 
 ### Diagnostic
 ### Perspectives
 
 ---
 
-# Portrait 
+# Portrait <a href='https://github.com/EffetsCumulatifsNavigation/ceanav'><img src='figures/logo.png' align="right" height="150" /></a>
 
-## Collecte de données 
+## Collecte et gestion de données 
+
+--
+- Données existantes 
+
+--
+
+- Consultation parties impliquées 
+
+--
+- Priorisation données ouvertes 
+<a href='https://open.canada.ca/fr'><img src='figures/Gouvernement_du_Canada_logo.svg.png' align="right" style="padding-right: 30px;" height="25" /></a>
+<a href='https://ogsl.ca/fr/accueil/'><img src='figures/OGSL_Logo-no-frame-2.png' align="right" style="padding-left: 25px; padding-right: 25px;" height="35" /></a> 
+<a href='https://www.donneesquebec.ca/'><img src='figures/QUEBEC_couleur.svg' align="right" height="35" /></a>
+
+--
+
+- Ententes de partages de données
+
+--
+- Transparence et reproductibilité &nbsp; `r rp()` `r gh()` <a href='https://github.com/EffetsCumulatifsNavigation/ceanav'><img src='figures/ceanav.png' align="right" height="250" /></a>
+- Compendium de recherche ***ceanav***
+- Partage sur le portail de l'OGSL .font60[`r tr()` en cours]
 
 ---
 
@@ -317,8 +362,8 @@ class: inverse, center, middle
 <html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
 ### Contexte
-### Portée
-### Méthode
+### Portée de l'évaluation
+### Méthode d'analyse
 ### Portrait 
 #### Diagnostic
 ### Perspectives
@@ -400,6 +445,31 @@ class: inverse, center, middle
 
 ## Limites 
 
+### Données et connaissances
+
+- Travail d'intégration de données et connaissances existantes qui ne remplace pas les programmes et projets existants
+
+--
+- Priorité aux données ouvertes
+
+
+--
+### Limites temporelles
+
+- Variable, majoritairement entre ~ 2000 et 2019
+
+--
+- L'évaluation n'est pas garante du passé ou du futur
+
+
+--
+### Limites de l'interprétation
+
+- Évaluation sectorielle qui ne considère pas tous les stresseurs environnementaux existants
+
+--
+- Interprétation limitée aux données et connaissances disponibles et accessibles
+
 ---
 
 class: inverse, center, middle
@@ -409,8 +479,8 @@ class: inverse, center, middle
 <html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
 ### Contexte
-### Portée
-### Méthode
+### Portée de l'évaluation
+### Méthode d'analyse
 ### Portrait 
 ### Diagnostic
 #### Perspectives
@@ -635,7 +705,7 @@ class: inverse, center, middle
 
 class: inverse, center, middle
 
-# Méthode d'analyse
+# Méthode d'analyse d'analyse
 
 <html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
