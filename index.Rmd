@@ -1,7 +1,7 @@
 ---
 title: "Effets cumulatifs des activités maritimes sur le Saint-Laurent et la rivière Saguenay"
 author: "David Beauchesne, Cindy Grant, Philippe Archambault"
-date: "2022/03/23"
+date: "2022/03/29"
 output:
   xaringan::moon_reader:
     css: [rd.css, rd-font.css, default, "hygge"]
@@ -101,7 +101,7 @@ class: inverse, center, middle
 ### Portée de l'évaluation
 ### Méthode d'analyse 
 ### Portrait 
-### Diagnostic
+### Résultats
 ### Perspectives
 
 ---
@@ -157,7 +157,7 @@ class: inverse, center, middle
 #### Portée de l'évaluation
 ### Méthode d'analyse
 ### Portrait 
-### Diagnostic
+### Résultats
 ### Perspectives
 
 ---
@@ -189,10 +189,10 @@ class: inverse, center, middle
 
 # Portée de l'évaluation
 
-.pull-left2[
-## Zone d'étude &nbsp;&nbsp; <a href="maps/sa.html" target="_blank">`r mp()`</a>
+## Portée spatiale et temporelle &nbsp;&nbsp; <a href="maps/sa.html" target="_blank">`r mp()`</a>
 
-#### Étendue
+.pull-left2[
+#### Étendue spatiale
 
 - Ouest: Châteaugay
 - Est : Pointe-des-Monts et Cap-Chat
@@ -201,10 +201,15 @@ class: inverse, center, middle
 #### Grille d'étude
 
 - Cellules $1km^2$
+
+#### Limites temporelles 
+
+- Évaluation contemporaine 
+- ~2000-2020 selon la disponibilité des données
 ]
 
 .pull-right2[
-![](https://david-beauchesne.github.io/Rapport/figures/aoi.png)
+![](https://effetscumulatifsnavigation.github.io/Rapport/figures/aoi.png)
 ]
 
 
@@ -222,6 +227,27 @@ class: inverse, center, middle
 --
 `r tr()` .font80[Bien que le terme ***stresseur*** suggère des effets négatifs, un stresseur peut n'avoir aucun effet, ou même exercer un effet positif, sur une composante valorisée]
 
+---
+# Portée de l'évaluation 
+
+## Limites et considérations particulières
+
+### Interprération balisée par la portée de l'étude
+
+Limites spatiales et temporelles <br>
+Stresseurs environnementaux <br>
+Composantes valorisées
+
+--
+### Évaluation sectorielle centrée sur les activités maritimes 
+
+--
+### Composantes valorisées spécifiques à ce projet 
+
+--
+### Évaluation basée sur des données existantes
+
+
 
 ---
 
@@ -235,7 +261,7 @@ class: inverse, center, middle
 ### Portée de l'évaluation
 #### Méthode d'analyse
 ### Portrait 
-### Diagnostic
+### Résultats
 ### Perspectives
 
 ---
@@ -304,7 +330,7 @@ class: inverse, center, middle
 ### Portée de l'évaluation
 ### Méthode d'analyse
 #### Portrait 
-### Diagnostic
+### Résultats
 ### Perspectives
 
 ---
@@ -365,12 +391,12 @@ class: inverse, center, middle
 ### Portée de l'évaluation
 ### Méthode d'analyse
 ### Portrait 
-#### Diagnostic
+#### Résultats
 ### Perspectives
 
 ---
 
-# Diagnostic
+# Résultats
 
 ## Stresseurs cumulés
 
@@ -378,12 +404,12 @@ class: inverse, center, middle
 
 ]
 .pull-right2[
-![](https://david-beauchesne.github.io/Rapport/figures/figures-output/cumulative_st_norm.png)
+![](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_st_norm.png)
 ]
 
 ---
 
-# Diagnostic
+# Résultats
 
 ## Composantes valorisées cumulées
 
@@ -391,12 +417,12 @@ class: inverse, center, middle
 
 ]
 .pull-right2[
-![](https://david-beauchesne.github.io/Rapport/figures/figures-output/cumulative_cv_norm.png)
+![](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_cv_norm.png)
 ]
 
 ---
 
-# Diagnostic
+# Résultats
 
 ## Effets cumulatifs
 
@@ -404,12 +430,12 @@ class: inverse, center, middle
 
 ]
 .pull-right2[
-![](https://david-beauchesne.github.io/Rapport/figures/figures-output/cumulative_effects.png)
+![](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects.png)
 ]
 
 ---
 
-# Diagnostic
+# Résultats
 
 ## Contribution régionale
 
@@ -417,12 +443,12 @@ class: inverse, center, middle
 
 ]
 .pull-right2[
-![](https://david-beauchesne.github.io/Rapport/figures/figures-output/cumulative_effects_regional_contribution.png)
+![](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects_regional_contribution.png)
 ]
 
 ---
 
-# Diagnostic
+# Résultats
 
 ## Régions administratives
 
@@ -430,45 +456,14 @@ class: inverse, center, middle
 
 ]
 .pull-right2[
-![](https://david-beauchesne.github.io/Rapport/figures/figures-output/cumulative_effects_region_cea.png)
+![](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects_region_cea.png)
 ]
 
 ---
 
-# Diagnostic 
+# Résultats 
 
 ## Constats généraux
-
----
-
-# Diagnostic 
-
-## Limites 
-
-### Données et connaissances
-
-- Travail d'intégration de données et connaissances existantes qui ne remplace pas les programmes et projets existants
-
---
-- Priorité aux données ouvertes
-
-
---
-### Limites temporelles
-
-- Variable, majoritairement entre ~ 2000 et 2019
-
---
-- L'évaluation n'est pas garante du passé ou du futur
-
-
---
-### Limites de l'interprétation
-
-- Évaluation sectorielle qui ne considère pas tous les stresseurs environnementaux existants
-
---
-- Interprétation limitée aux données et connaissances disponibles et accessibles
 
 ---
 
@@ -482,7 +477,7 @@ class: inverse, center, middle
 ### Portée de l'évaluation
 ### Méthode d'analyse
 ### Portrait 
-### Diagnostic
+### Résultats
 #### Perspectives
 
 ---
@@ -557,7 +552,7 @@ class: inverse, center, middle
 4. Analyse des effets cumulatifs
 
 --
-5. Diagnostic de l'analyse
+5. Résultats de l'évaluation
 
 --
 6. Processus décisionnels et de gestion
@@ -577,7 +572,7 @@ class: inverse, center, middle
     * Composantes valorisées
     * Vulnérabilité
 4. Analyse des effets cumulatifs
-5. Diagnostic de l'analyse
+5. Résultats de l'évaluation
 6. Processus décisionnels et de gestion
 7. Suivi et gestion adaptative
 
@@ -597,7 +592,7 @@ class: inverse, center, middle
     * Composantes valorisées
     * Vulnérabilité
 4. Analyse des effets cumulatifs
-5. Diagnostic de l'analyse
+5. Résultats de l'évaluation
 6. Processus décisionnels et de gestion
 7. Suivi et gestion adaptative
 
@@ -617,7 +612,7 @@ class: inverse, center, middle
     * **<span style="color:#FECA2C;">Composantes valorisées</span>**
     * **<span style="color:#FECA2C;">Vulnérabilité</span>**
 4. **<span style="color:#FECA2C;">Analyse des effets cumulatifs</span>**
-5. **<span style="color:#FECA2C;">Diagnostic de l'analyse</span>**
+5. **<span style="color:#FECA2C;">Résultats de l'évaluation</span>**
 6. Processus décisionnels et de gestion
 7. Suivi et gestion adaptative
 
@@ -639,7 +634,7 @@ class: inverse, center, middle
     * <span style="color:#FECA2C;">Composantes valorisées</span>
     * <span style="color:#FECA2C;">Vulnérabilité</span>
 4. <span style="color:#FECA2C;">Analyse des effets cumulatifs</span>
-5. <span style="color:#FECA2C;">Diagnostic de l'analyse</span>
+5. <span style="color:#FECA2C;">Résultats de l'évaluation</span>
 6. **<span style="color:#999999;">Processus décisionnels et de gestion</span>**
 7. **<span style="color:#999999;">Suivi et gestion adaptative</span>**
 
@@ -661,7 +656,7 @@ class: inverse, center, middle
     * **<span style="color:#429a6d;">Composantes valorisées</span>**
     * <span style="color:#FECA2C;">Vulnérabilité</span>
 4. <span style="color:#FECA2C;">Analyse des effets cumulatifs</span>
-5. <span style="color:#FECA2C;">Diagnostic de l'analyse</span>
+5. <span style="color:#FECA2C;">Résultats de l'évaluation</span>
 6. Processus décisionnels et de gestion
 7. Suivi et gestion adaptative
 
