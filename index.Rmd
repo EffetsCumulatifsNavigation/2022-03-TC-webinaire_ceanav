@@ -637,6 +637,44 @@ class: inverse, center, middle
 ---
 class: inverse, center, middle
 
+# Remerciements 
+
+<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
+
+## Parce que sans votre travail, le nôtre serait impossible
+
+---
+# Remerciements 
+
+***Toutes les personnes et organismes ayant participé aux ateliers et webinaires*** <br>
+
+
+--
+***Les Premières Nations ayant participé à l'évaluation*** <br>
+&emsp;&emsp;.font90[Nation Huronne-Wendat] <br>
+&emsp;&emsp;.font90[Nation des Innus d’Essipit] <br>
+&emsp;&emsp;.font90[Nation Mohawk de Kahnawà:ke] <br>
+&emsp;&emsp;.font90[Nation Wolastoqiyik Wahsipekuk] <br>
+&emsp;&emsp;.font90[Nation W8banaki ] <br>
+
+
+--
+***Collaborateurs et organismes qui ont échangé et partagé avec notre équipe*** <br>
+
+
+--
+***Membres du Plan d'action Saint-Laurent*** <br>
+
+
+
+--
+***Catherine Guillemette!*** <br>
+
+
+
+---
+class: inverse, center, middle
+
 # Merci! 
 
 
