@@ -54,7 +54,7 @@ class: title-slide, middle
 
 #### 2022-03-23
 
-<!-- #### [English version](https://github.com/EffetsCumulatifsNavigation/2022-03-TC-webinaire_ceanav) -->
+#### [**English version**](https://effetscumulatifsnavigation.github.io/2022-03-TC-webinar_ceanav/)
 
 
 ---
@@ -438,6 +438,8 @@ class: inverse, center, middle
 
 ## Vulnérabilité
 
+*À venir*
+
 ---
 
 class: inverse, center, middle
@@ -676,6 +678,9 @@ class: inverse, center, middle
 class: inverse, center, middle
 
 # Merci! 
+
+<html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
+
 
 
 <!--
