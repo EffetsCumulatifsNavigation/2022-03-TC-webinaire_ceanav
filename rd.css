@@ -467,7 +467,10 @@ pre code {
     float: left;
     width: 50%;
   }
-
+  .pull-left5 {
+    float: left;
+    width: 75%;
+  }
   .column {
     float: left;
     width: 20%;

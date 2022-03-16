@@ -225,27 +225,33 @@ class: inverse, center, middle
 
 
 --
-`r tr()` .font80[Bien que le terme ***stresseur*** suggère des effets négatifs, un stresseur peut n'avoir aucun effet, ou même exercer un effet positif, sur une composante valorisée]
+.font80[`r tr()` Bien que le terme ***stresseur*** suggère des effets négatifs, un stresseur peut n'avoir aucun effet, ou même exercer un effet positif, sur une composante valorisée]
 
 ---
 # Portée de l'évaluation 
 
-## Limites et considérations particulières
+## Limites et considérations particulières <br><br>
 
-### Interprération balisée par la portée de l'étude
+&emsp;***Interprération balisée par la portée de l'étude*** <br>
+&emsp;&emsp;&emsp;.font90[Limites spatiales et temporelles] <br>
+&emsp;&emsp;&emsp;.font90[Stresseurs environnementaux] <br>
+&emsp;&emsp;&emsp;.font90[Composantes valorisées] <br>
 
-Limites spatiales et temporelles <br>
-Stresseurs environnementaux <br>
-Composantes valorisées
-
---
-### Évaluation sectorielle centrée sur les activités maritimes 
 
 --
-### Composantes valorisées spécifiques à ce projet 
+&emsp;***Évaluation régionale des effets cumulatifs*** <br>
+
 
 --
-### Évaluation basée sur des données existantes
+&emsp;***Évaluation sectorielle centrée sur les activités maritimes*** <br>
+
+
+--
+&emsp;***Composantes valorisées spécifiques à ce projet*** <br>
+
+
+--
+&emsp;***Évaluation basée sur des données existantes*** <br>
 
 
 
@@ -365,13 +371,66 @@ class: inverse, center, middle
 
 # Portrait 
 
-## Stresseurs environnementaux
+## [Stresseurs environnementaux](https://effetscumulatifsnavigation.github.io/Rapport/portrait.html#strportrait) .font70[(25 sous-catégories)] <br>
+
+.pull-left4[
+&emsp;[***Ancrages***](https://effetscumulatifsnavigation.github.io/Rapport/portrait.html#ancrage) .font70[(1)] <br>
+
+&emsp;[***Déversements accidentels***](https://effetscumulatifsnavigation.github.io/Rapport/portrait.html#deversement) .font70[(3)] <br>
+
+&emsp;[***Dragage***](https://effetscumulatifsnavigation.github.io/Rapport/portrait.html#dragage) .font70[(3)] <br>
+
+&emsp;[***Naufrages***](https://effetscumulatifsnavigation.github.io/Rapport/portrait.html#naufrage) .font70[(1)] <br>
+
+&emsp;[***Navigation***](https://effetscumulatifsnavigation.github.io/Rapport/portrait.html#navigation) .font70[(11]) <br>
+
+&emsp;[***Pêche commerciale***](https://effetscumulatifsnavigation.github.io/Rapport/portrait.html#pechecommerciale) .font70[(5)] <br>
+
+&emsp;[***Pollution maritime***](https://effetscumulatifsnavigation.github.io/Rapport/portrait.html#pollutionmaritime) .font70[(1)] <br>
+]
+
+.pull-right4[
+[<center><img src="https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_st_panel.png" width="80%"></img></center>](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_st_panel.png)
+]
+
+.references[
+`r nf()` Tous les titres en gras sont des liens qui mènent aux sections du rapport. 
+]
 
 ---
 
 # Portrait 
 
-## Composantes valorisées 
+## [Composantes valorisées](https://effetscumulatifsnavigation.github.io/Rapport/portrait.html#cvportrait) .font70[(77 sous-catégories)]
+
+.pull-left4[
+&emsp;[***Habitats floristiques et fauniques***](https://effetscumulatifsnavigation.github.io/Rapport/portrait.html#habitat) <br>
+&emsp;&emsp; Cycles de vie .font70[(3)] <br>
+&emsp;&emsp; .font90[Espèces à statut] .font70[(6)] <br>
+&emsp;&emsp; .font90[Milieux naturels] .font70[(12)] <br>
+
+&emsp;[***Intégrité des berges***](https://effetscumulatifsnavigation.github.io/Rapport/portrait.html#berge) .font70[(4)] <br>
+
+&emsp;[***Mammifères marins***](https://effetscumulatifsnavigation.github.io/Rapport/portrait.html#mammiferesmarins) <br>
+&emsp;&emsp; .font90[Baleines] .font70[(6)] <br>
+&emsp;&emsp; .font90[Phoques] .font70[(3)] <br>
+
+&emsp;[***Qualité de l'eau***](https://effetscumulatifsnavigation.github.io/Rapport/portrait.html#qualité-de-leau) .font80[`r tr()` non considéré]
+]
+
+.pull-right4[
+[<center><img src="https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_cv_panel.png" width="200%"></img></center>](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_cv_panel.png)
+]
+
+.pull-left5[
+&emsp;[***Sites d'intérêt cultirels, patrimoniaux et archéologiques***](https://effetscumulatifsnavigation.github.io/Rapport/portrait.html#site) <br>
+&emsp;&emsp; .font90[Premières Nations] .font70[(41)] <br>
+&emsp;&emsp; .font90[Sites publics] .font70[(2)] <br>
+]
+
+.references[
+`r nf()` Tous les titres en gras sont des liens qui mènent aux sections du rapport. 
+]
 
 ---
 
@@ -579,69 +638,6 @@ class: inverse, center, middle
 class: inverse, center, middle
 
 # Merci! 
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!--
