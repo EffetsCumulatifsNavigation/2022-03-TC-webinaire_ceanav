@@ -138,11 +138,6 @@ class: inverse, center, middle
 <a href='https://www.donneesquebec.ca/'><img src='figures/QUEBEC_couleur.svg' align="center" height="35" /></a>
 <a href='https://ogsl.ca/fr/accueil/'><img src='figures/pasl_logo.png' align="center" style="padding-left: 20px; padding-right: 10px;" height="45" /></a> 
 <a href='https://open.canada.ca/fr'><img src='figures/Gouvernement_du_Canada_logo.svg.png' align="center" height="25" /></a>
-
-
-<!-- <a href='https://open.canada.ca/fr'><img src='figures/Gouvernement_du_Canada_logo.svg.png' align="right" style="padding-right: 30px;" height="25" /></a>
-<a href='https://ogsl.ca/fr/accueil/'><img src='figures/OGSL_Logo-no-frame-2.png' align="right" style="padding-left: 25px; padding-right: 25px;" height="35" /></a> 
-<a href='https://www.donneesquebec.ca/'><img src='figures/QUEBEC_couleur.svg' align="right" height="35" /></a> -->
 ]
 
 ---
@@ -209,7 +204,7 @@ class: inverse, center, middle
 ]
 
 .pull-right2[
-![](https://effetscumulatifsnavigation.github.io/Rapport/figures/aoi.png)
+[<center><img src="https://effetscumulatifsnavigation.github.io/Rapport/figures/aoi.png" width="100%"></img></center>](https://effetscumulatifsnavigation.github.io/Rapport/figures/aoi.png)
 ]
 
 
@@ -419,7 +414,7 @@ class: inverse, center, middle
 ]
 
 .pull-right4[
-[<center><img src="https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_cv_panel.png" width="200%"></img></center>](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_cv_panel.png)
+[<center><img src="https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_cv_panel.png" width="100%"></img></center>](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_cv_panel.png)
 ]
 
 .pull-left5[
@@ -576,8 +571,10 @@ class: inverse, center, middle
 
 ]
 .pull-right2[
-[![](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_st.png)](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_st.png)
+[<center><img src="https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_st.png" width="100%"></img></center>](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_st.png)
 ]
+
+
 
 ---
 
@@ -595,7 +592,7 @@ class: inverse, center, middle
 - Embouchure de la Rivière Saguenay
 ]
 .pull-right2[
-[![](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_cv.png)](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_cv.png)
+[<center><img src="https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_cv.png" width="100%"></img></center>](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_cv.png)
 ]
 
 ---
@@ -614,7 +611,7 @@ class: inverse, center, middle
   - .font90[Embouchure de la rivière Saguenay]
 ]
 .pull-right2[
-[![](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects.png)](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects.png)
+[<center><img src="https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects.png" width="100%"></img></center>](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects.png)
 ]
 
 ---
@@ -630,7 +627,7 @@ class: inverse, center, middle
 ]
 
 .pull-right2[
-[![](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects_metanetwork.png)](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects_metanetwork.png)
+[<center><img src="https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects_metanetwork.png" width="100%"></img></center>](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects_metanetwork.png)
 ]
 
 
@@ -649,7 +646,7 @@ class: inverse, center, middle
 - .font90[Chevauchement au sein de milieux les plus affectés comme le lac Saint-Pierre]
 ]
 
-[![](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects_regional_contribution.png)](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects_regional_contribution.png)
+[<center><img src="https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects_regional_contribution.png" width="100%"></img></center>](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects_regional_contribution.png)
 
 ---
 
@@ -666,7 +663,7 @@ class: inverse, center, middle
 - .font90[Effets moindre sur les mammifères marins; localisé à l'embouchure du Saguenay]
 ]
 
-[![](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects_regional_contribution.png)](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects_regional_contribution.png)
+[<center><img src="https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects_regional_contribution.png" width="100%"></img></center>](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects_regional_contribution.png)
 
 ---
 
@@ -682,7 +679,7 @@ class: inverse, center, middle
   - .font90[Côte Nord: effets sur les mammifères marins à l'embouchure du Saguenay] 
 ]
 .pull-right4[
-[![](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects_region_cea.png)](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects_region_cea.png)
+[<center><img src="https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects_region_cea.png" width="100%"></img></center>](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects_region_cea.png)
 ]
 
 ---
