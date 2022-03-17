@@ -133,7 +133,7 @@ class: inverse, center, middle
 ]
 
 .pull-right[
-<center><img src="figures/stlTC.png" width="100%"></img></center>
+<center><img src="figures/stlTC.png" width="50%"></img></center>
 
 <a href='https://www.donneesquebec.ca/'><img src='figures/QUEBEC_couleur.svg' align="center" height="35" /></a>
 <a href='https://ogsl.ca/fr/accueil/'><img src='figures/pasl_logo.png' align="center" style="padding-left: 20px; padding-right: 10px;" height="45" /></a> 
@@ -204,7 +204,13 @@ class: inverse, center, middle
 ]
 
 .pull-right2[
-[<center><img src="https://effetscumulatifsnavigation.github.io/Rapport/figures/aoi.png" width="100%"></img></center>](https://effetscumulatifsnavigation.github.io/Rapport/figures/aoi.png)
+
+<center>
+<a href="https://effetscumulatifsnavigation.github.io/Rapport/figures/aoi.png">
+<img src="https://effetscumulatifsnavigation.github.io/Rapport/figures/aoi.png" width="95%"></img>
+</a>
+</center>
+
 ]
 
 
