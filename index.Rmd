@@ -580,6 +580,7 @@ class: inverse, center, middle
 
 ]
 .pull-right2[
+<br>
 [<center><img src="https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_st.png" width="100%"></img></center>](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_st.png)
 ]
 
@@ -601,6 +602,7 @@ class: inverse, center, middle
 - Embouchure de la Rivière Saguenay
 ]
 .pull-right2[
+<br>
 [<center><img src="https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_cv.png" width="100%"></img></center>](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_cv.png)
 ]
 
@@ -620,6 +622,7 @@ class: inverse, center, middle
   - .font90[Embouchure de la rivière Saguenay]
 ]
 .pull-right2[
+<br>
 [<center><img src="https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects.png" width="100%"></img></center>](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects.png)
 ]
 
