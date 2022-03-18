@@ -67,7 +67,7 @@ class: inverse, center, middle
 <html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
 
-<!-- ---
+---
 
 # Équipe de travail
 
@@ -94,7 +94,7 @@ class: inverse, center, middle
     </div>
   </div>
 </div>
-</center> -->
+</center>
 
 
 ---
@@ -116,7 +116,7 @@ class: inverse, center, middle
 ---
 # Contexte 
 
-.pull-left2[
+.pull-left4[
 ## Initiative nationale 
 
 - .font90[Cadre national d'évaluation des effets cumualtifs]
@@ -136,50 +136,8 @@ class: inverse, center, middle
 - .font90[Organisations non-gouvernementales]
 ]
 
-.pull-right2[
-<center><img src="./figures/stlTC.png" width = "80%"></img></center>
-]
-
----
-
-# Contexte 
-
-.pull-left[
-## Initiative nationale 
-
-.font90[
-- Cadre national d'évaluation des effets cumulatifs
-- Évaluations régionales (6)
-]
-
-## Fleuve Saint-Laurent (QC)
-
-.font90[
-- Gouvernement du Canada 
-- Gouvernement du Québec 
-- Premières Nations 
-  - Nation Huronne-Wendat
-  - Nation des Innus d’Essipit
-  - Nation Mohawk de Kahnawà:ke
-  - Nation Wolastoqiyik Wahsipekuk
-  - Nation W8banaki 
-- Intervenants locaux
-- Organisations non-gouvernementales
-]
-]
-
-<!-- .pull-right[
-<center>
-<img src="figures/stlTC.png" width="100%"></img>
-</center>
-] -->
-
-.pull-right[
-<center>
-<a href="https://effetscumulatifsnavigation.github.io/Rapport/figures/aoi.png">
-<img src="https://effetscumulatifsnavigation.github.io/Rapport/figures/aoi.png" width="90%"></img>
-</a>
-</center>
+.pull-right4[
+<center><img src="./figures/stlTC.png" width = "95%"></img></center>
 
 <a href='https://www.donneesquebec.ca/'><img src='figures/QUEBEC_couleur.svg' align="center" height="35"></a>
 <a href='https://ogsl.ca/fr/accueil/'><img src='figures/pasl_logo.png' align="center" style="padding-left: 20px; padding-right: 10px;" height="45"></a> 
