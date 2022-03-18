@@ -116,7 +116,7 @@ class: inverse, center, middle
 ---
 # Contexte 
 
-.pull-left[
+.pull-left2[
 ## Initiative nationale 
 
 - .font90[Cadre national d'évaluation des effets cumualtifs]
@@ -136,8 +136,8 @@ class: inverse, center, middle
 - .font90[Organisations non-gouvernementales]
 ]
 
-.pull-right[
-<center><img src="./figures/stlTC.png" width = "100%"></img></center>
+.pull-right2[
+<center><img src="./figures/stlTC.png" width = "80%"></img></center>
 ]
 
 ---
