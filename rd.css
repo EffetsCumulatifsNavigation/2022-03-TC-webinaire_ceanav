@@ -406,8 +406,9 @@ pre code {
     text-align: center;
   }
   .divTable.team .divTableCell, .divTable.team .divTableHead {
-    padding: 3px 2px;
+    padding: 2px 1px;
   }
+
   /* DivTable.com */
   .divTable{ display: table; }
   .divTableRow { display: table-row; }
@@ -504,3 +505,43 @@ pre code {
     line-height: 0;
     font-style: italic;
   }
+
+  div.portrait {
+    width: 100%;
+    text-align: center;
+  }
+  .divPortrait.portrait .divPortraitCell, .divPortraitData, .divPortraitInfo .divPortrait.portrait .divPortraitHead .divPortraitTitle {
+    padding: 10px 10px;
+  }
+  
+  .divPortraitTitle {
+    text-align: left;
+    font-size: 12pt;
+    font-style: italic;
+    vertical-align: bottom
+  }
+
+  .divPortraitData {
+    text-align: right;
+    font-size: 9pt;
+    font-style: italic;
+    color: #9e9e9e;
+    vertical-align: top;
+  }
+  
+  .divPortraitInfo {
+    text-align: left;
+    font-size: 9pt;
+    font-style: italic;
+    color: #707070;
+    vertical-align: top;
+  }
+  
+  /* DivTable.com */
+  .divPortrait{ display: table; }
+  .divPortraitRow { display: table-row; }
+  .divPortraitHeading { display: table-header-group;}
+  .divPortraitCell, .divPortraitHead, .divPortraitTitle, .divPortraitData, .divPortraitInfo { display: table-cell;}
+  .divPortraitHeading { display: table-header-group;}
+  .divPortraitFoot { display: table-footer-group;}
+  .divPortraitBody { display: table-row-group;}
