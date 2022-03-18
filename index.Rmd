@@ -66,7 +66,8 @@ class: inverse, center, middle
 
 <html><div style='float:left'></div><hr color='#ffdd55' style="margin-top:-30px" size=1px width=720px></html>
 
----
+
+<!-- ---
 
 # Équipe de travail
 
@@ -74,19 +75,26 @@ class: inverse, center, middle
 
 <center>
 <div class="divTable team">
-<div class="divTableBody">
-<div class="divTableRow">
-<div class="divTableCell">
-<img src="figures/david2.png" style="width: 250px">
-</div><div class="divTableCell">
-<img src="figures/cindy.jpeg" style="width: 250px">
-</div><div class="divTableCell">
-<img src="figures/phil.png" style="width: 250px">
-</div></div>
-<div class="divTableRow">
-<div class="divTableCell"><b>David Beauchesne</b></div><div class="divTableCell"><b>Cindy Grant</b></div><div class="divTableCell"><b>Philippe Archambault</b></div></div>
+  <div class="divTableBody">
+    <div class="divTableRow">
+      <div class="divTableCell">
+        <img src="figures/david2.png" style="width: 250px">
+      </div>
+      <div class="divTableCell">
+        <img src="figures/cindy.jpeg" style="width: 250px">
+      </div>
+      <div class="divTableCell">
+        <img src="figures/phil.png" style="width: 250px">
+      </div>
+    </div>
+    <div class="divTableRow">
+      <div class="divTableCell"><b>David Beauchesne</b></div>
+      <div class="divTableCell"><b>Cindy Grant</b></div>
+      <div class="divTableCell"><b>Philippe Archambault</b></div>
+    </div>
+  </div>
 </div>
-</center>
+</center> -->
 
 
 ---
@@ -103,6 +111,34 @@ class: inverse, center, middle
 ### Portrait 
 ### Résultats
 ### Limites & perspectives
+
+
+---
+# Contexte 
+
+.pull-left[
+## Initiative nationale 
+
+- .font90[Cadre national d'évaluation des effets cumualtifs]
+- .font90[Évaluations régionales (6)]
+
+## Fleuve Saint-Laurent (QC)
+
+- .font90[Gouvernement du Canada]
+- .font90[Gouvernement du Québec]
+- .font90[Premières Nations]
+  - .font90[Nation Huronne-Wendat]
+  - .font90[Nation des Innus d'Essipit]
+  - .font90[Nation Mohawk de Kahnawà:ke]
+  - .font90[Nation Wolastoqiyik Wahsipekuk]
+  - .font90[Nation W8banaki]
+- .font90[Intervenants locaux]
+- .font90[Organisations non-gouvernementales]
+]
+
+.pull-right[
+<center><img src="./figures/stlTC.png" width = "100%"></img></center>
+]
 
 ---
 
