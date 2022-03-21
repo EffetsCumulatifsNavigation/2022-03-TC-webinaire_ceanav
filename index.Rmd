@@ -32,9 +32,11 @@ cols <- c('#777777','#d66666','#f0f518','#2eb8dd','#6a8868')
 class: title-slide, middle
 
 
-# Effets cumulatifs des activités maritimes sur le Saint-Laurent et la rivière Saguenay - Projet pilote
+# Effets cumulatifs des activités maritimes sur le Saint-Laurent et la rivière Saguenay
 
-<center><img src="figures/cumulative_effects_simple.png" width="65%"></img></center>
+### Projet pilote
+
+<center><img src="figures/cumulative_effects_simple.png" width="55%"></img></center>
 
 <center><i>David Beauchesne, Cindy Grant & Philippe Archambault</i></center>
 
@@ -165,7 +167,7 @@ class: inverse, center, middle
 
 ## Objectifs général
 
-*Développer une méthodologie d'analyse effectuer une évaluation des effets cumulatifs des activités maritimes dans le Saint-Laurent (tronçon fluvial et estuaire) et la rivière Saguenay (partie en eau profonde) au Québec*
+*Développer une méthodologie d'analyse et effectuer une évaluation des effets cumulatifs des activités maritimes dans le Saint-Laurent (tronçon fluvial et estuaire) et la rivière Saguenay (partie en eau profonde) au Québec*
 
 <br>
 
