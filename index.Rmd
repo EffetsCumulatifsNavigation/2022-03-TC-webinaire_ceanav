@@ -121,7 +121,7 @@ class: inverse, center, middle
 .pull-left4[
 ## Initiative nationale 
 
-- .font90[Cadre national d'évaluation des effets cumualtifs]
+- .font90[Cadre national d'évaluation des effets cumulatifs]
 - .font90[Évaluations régionales (6)]
 
 ## Fleuve Saint-Laurent (QC)
@@ -190,7 +190,7 @@ class: inverse, center, middle
 
 # Portée de l'évaluation
 
-## Portée spatiale et temporelle &nbsp;&nbsp; <a href="maps/sa.html" target="_blank">`r mp()`</a>
+## Portée spatiale et temporelle <!-- &nbsp;&nbsp; <a href="maps/sa.html" target="_blank">`r mp()`</a> -->
 
 .pull-left2[
 #### Étendue spatiale
@@ -366,7 +366,7 @@ class: inverse, center, middle
 
 --
 
-- Ententes de partages de données
+- Ententes de partage de données
 
 --
 - Transparence et reproductibilité &nbsp; `r rp()` `r gh()` <a href='https://github.com/EffetsCumulatifsNavigation/ceanav'><img src='figures/ceanav.png' align="right" height="250" /></a>
@@ -756,7 +756,7 @@ class: inverse, center, middle
 .pull-left2[
 - Généralisés et intensités variables
 - Secteur fluvial: intense et concentré 
-  - .font90[Québec et sud de l'Île d'Orléan]
+  - .font90[Québec et sud de l'Île d'Orléans]
   - .font90[Lac Saint-Pierre]
   - .font90[Chenal de navigation (Montréal - Trois-Rivières)]
 - Secteur maritime: diffus
@@ -771,7 +771,7 @@ class: inverse, center, middle
 
 # Résultats
 
-## Chemins d'effet
+## Chemins d'effets
 
 .pull-left2[
 - Vue d'ensemble de l'évaluation
@@ -809,11 +809,11 @@ class: inverse, center, middle
 
 .pull-left4[
 - .font90[Exposition importante des sites d'intérêt, surtout dans le secteur fluvial]
-- .font90[Intégrité des berges affecté par la navigation]
+- .font90[Intégrité des berges affectée par la navigation]
 ]
 .pull-right4[ 
-- .font90[Effets et source des effets variable sur les habitats]
-- .font90[Effets moindre sur les mammifères marins; localisé à l'embouchure du Saguenay]
+- .font90[Effets et source des effets variables sur les habitats]
+- .font90[Effets moindres sur les mammifères marins; localisés à l'embouchure du Saguenay]
 ]
 
 [<center><img src="https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects_regional_contribution.png" width="100%"></img></center>](https://effetscumulatifsnavigation.github.io/Rapport/figures/figures-output/cumulative_effects_regional_contribution.png)
@@ -827,7 +827,7 @@ class: inverse, center, middle
 .pull-left4[
 - Régions du secteur fluvial plus affectées, particulièrement Montérégie
   - .font90[Concentration des effets de la navigation] 
-  - .font90[Principalement transport de marchandise]
+  - .font90[Principalement transport de marchandises]
 - Régions du secteur maritime moins affectées
   - .font90[Côte Nord: effets sur les mammifères marins à l'embouchure du Saguenay] 
 ]
@@ -887,7 +887,7 @@ class: inverse, center, middle
 --
 ***Exploration interactive des évaluations d'effets cumulatifs*** <br>
 &emsp;&emsp;.font90[Simplification des résultats présentés au sein d'un rapport] <br>
-&emsp;&emsp;.font90[Outils interactifs permetant l'exploration des résultats] <br>
+&emsp;&emsp;.font90[Outils interactifs permettant l'exploration des résultats] <br>
 
 
 ---
